@@ -1,0 +1,120 @@
+How to Create a Professional and Eye Catching Site Banner
+
+Hi steemians,
+
+Today I will like to explain how to create a professional and attractive site banner.
+
+## Softwares and materials
+The following materials will be needed to carry out today's project;
+1. Graphic Editing Software; (I am using Adobe Photoshop version CS6) 
+2. Images
+3. Fonts
+
+## Design Level
+* Intermediate
+This design can be done by those who already have one or two experience with photoshop or any other graphics editing software.
+However, people with beginner skills level can also attempt this design
+
+## Time Frame
+* 25-40 mins
+In as much it is pretty important to work with time, it is also important that we you do not rush
+
+## Outcome
+![cammp.PNG](https://steemitimages.com/DQmaHHVwo8iEhZg79iYYL4KL4i4HgvyoQwY8Kfefi432qr8/cammp.PNG)
+
+## Project Introduction
+I was contacted to handle the graphic section of a new project #SteemCamp by @michaelcj.
+> #SteemCamp is a project (Still under development) focused on promoting the Steem Blockchain in underdeveloped countries like Nigeria, Ghana, Togo etc using entertainment as a *bait*.
+
+I humped on this project and offered to create a professional design based on the concept briefing I received.
+
+> **Let's Begin**
+*****
+# How to Create a Professional and Attractive Site Banner on Photoshop
+## Step one - Download free/Buy stock Images
+When making a design it is very important you go for high quality images for your work.
+
+I personally love [FREEPIKS](http://freepik.com/); they have loads of high quality images available for both free and premium users.
+> Here are the images used in this tutorial
+
+## Step two - Download free/Buy fonts online
+Apart from the High Quality images, fonts are what will help create a unique design.
+It is imperrative you font and colour selection goes with the concept of the design project at hand; Some fonts and colours look playful thus shouldn't be used for professional bodies rather should be for Youths or maybe entertainment centered designs, other fonts and colours look classic (this should be used for cooperate organisations)
+
+I will suggest you check up [Dafonts](http://dafont.com/) for exciting new fonts.
+
+## Step three - Start Photoshop
+Launch the program and set the appopriate dimensions.
+In my case, I created two tabs; one for the banner itself and the other a *workshop* where I do all my manipulation before transferring to the main banner tab.
+
+**My demensions are:**
+* 1900 x 600 for the banner
+* 2500 x 2500 for my mini workshop
+> Hold down **"CTRL + N"** to create a new tab
+Or go to file, then click on new to create a new tab.
+![a1.PNG](https://steemitimages.com/DQmZvn5UTbNttHyVDQ3ys9zv11WxohuJFaDbLKMZ4Z9hZJg/a1.PNG)
+![a2.PNG](https://steemitimages.com/DQmPfGLivcALh6EB7PYw9W1m4oLrvZ2szoDJ9wKdPCK45a4/a2.PNG)
+
+## Step four - Set rulers
+One major secret of a neat and professional design is the consideration of element placement.
+If you have a good concept and your arrangement is shitty, your work will not appear neat and professional.
+
+> To toggle on your rulers on and off just hold down **"CTRL + R"**
+![a3.PNG](https://steemitimages.com/DQmNeDnvPAG9xmyvifmjHGMTgo9xd92NAA8Y5RdHL9QpqHE/a3.PNG)
+
+## Step four - Insert text and select your Fonts
+Type down all the text that will be needed in the banner and select a befitting font which have been downloaded from [Dafonts](http://dafont.com/) or any other font sites.
+> To select the text tool in photoshop just hit **"T"** button on your keyboard.
+Or simply select the text tool using your cursor
+
+> To change your text font, select your desired font from the available ones installed by clicking on the portion circled in red in the image below.
+![a4.PNG](https://steemitimages.com/DQmdXA4Gr73yjKQspf8NmLbKfGS8n3GtCzbSGmqzxkadmmu/a4.PNG)
+
+***Did you noticed the shapes behind some of the texts? The yellow boxes behind some of the text in the above image was acheived by using the rectangle shape tools and selecting yellow as its fill colour.***
+## Step five - Importing Image elements
+After working on the images to be used on the banner, we will then import them to the banner tab from your workshop tab.
+
+> To import an image from your computer; go to file, then click on **open**, lastly select the image you intend to import.
+You can also use drag and drop style to load your images.
+![a6.PNG](https://steemitimages.com/DQmUSb8uX695c2Gx6Kuwc2KpbNZye2GWacX5bUj4oqzcPnB/a6.PNG)
+
+> To move from your **"workshop"** to your **banner** tab, first select the layer of the image(s) you intend to move, then select your **"move tool"** (you can hit your **"V"** button to automatically select this option), lastly, now drag the images to the other tab by holding down your left mouse button and moving the images to the **"banner"** tab.
+
+## Step six - Text/Image Positioning
+Utilize your banner workspace adequately so that your designer won't appear crowded on one part.
+
+> Use the **move tool (CTRL + V)** to move your images and texts around till you get the perfect look.
+![a5.PNG](https://steemitimages.com/DQmdHVnLbG288WDoLPnV6zc1KdwqTMawoWcRjzWiJ39UU8h/a5.PNG)
+
+## Step seven - Colour selection and blending
+This is the finial stage of the banner creation. 
+Use the colour swatches to select colours and blend them with both **eraser tool** and **brush tool**.
+
+> To select the eraser tool just hit the **"E"** button or simply use your select it from the tool bar.
+![a7.PNG](https://steemitimages.com/DQmUmHik6FNmkWxiFcHoBFZTCekY2uEKnJaJ6CwNnNAP6vp/a7.PNG)
+![a8.PNG](https://steemitimages.com/DQmSHuRQe6Xx8W3f2ASa4eHW9M6Rmbg5kwYBXsVqy36KAnQ/a8.PNG)
+
+## Step eight - Save Images
+Now your project should first be saved in **psd** then  later saved in **png**
+
+> To save a new work, hold down **CTRL + S** or hold **SHIFT + CTRL + S** to save in new format/name 
+
+`Design Tips`
+* To create a smooth blend between the images, reduce the hardness of your brush and eraser.
+* To help create a perfect blend in colours you can decrease and increase layers opacity. 
+*****
+*****
+For suggestions and enquiries please leave a comment below or chat me up on discord with the i.d `jacobite#1316`
+*****
+*****
+`Latest Jacobite's Shows`
+>* [Caso Triste - (Poetry)](https://steemit.com/busy/@jacobite/caso-triste-jacobite-s-shows-poetry)
+>* [To Love Or Not To Love - (Poetry)](https://steemit.com/busy/@jacobite/to-love-or-not-to-love-jacobite-s-shows-poetry)
+>* [Thought within me - (Poetry)](https://steemit.com/poetry/@jacobite/thought-within-me-jacobite-s-shows-poetry)
+>* [A Plain Sheet - (Story)](https://steemit.com/busy/@jacobite/a-plain-sheet-jacobite-s-shows-story)
+
+`Featured Posts`
+>* [Discovering the Means of Driving Hidden Traffic from Google+ to your Wordpress Site - (Tutorial)](https://steemit.com/utopian-io/@netwonks/discovering-the-means-of-driving-hidden-traffic-from-google-to-your-wordpress-site)
+>* [SteemCamp Project 2018 - ( Growth Idea Whitepaper)](https://steemit.com/promo-steem/@michaelcj/preparing-the-whitepaper-for-steemcamp-project-2018)
+
+<center>https://steemitimages.com/DQmY3zqajsKNpkZUzAFCHeA883LgGrgh4w7JQMaxR6P49iV/aust%20steem.gif</center>
